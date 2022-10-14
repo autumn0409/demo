@@ -1,8 +1,10 @@
 {
-  "city": "London",
-  "coord": {
-    "lon": -0.1257,
-    "lat": 51.5085
+  "city": {
+    "name": "London",
+    "coord": {
+      "lon": -0.1257,
+      "lat": 51.5085
+    }
   },
   "weather": [
     {
